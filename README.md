@@ -1,0 +1,1 @@
+A simple Guess-My-Number Game coded as part of going through Jonas Schmedtmann's JavaScript Course on UDEMY. Please note that I have only coded the logic of the whole project (the JavaScript file). The styling (html and css) has been curated by Jonas and team to provide support to the students. 
